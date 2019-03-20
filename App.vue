@@ -128,7 +128,10 @@
         </table>
       </div>
     </div>
-    <footer class="footer"></footer>
+    <footer class="footer">
+      <span>資料來源：行政院環境保護署</span>
+      <span style="font-weight: normal;">Copyright © 2019 AzureBlue All rights reserved.</span>
+    </footer>
   </div>
 </template>
 
@@ -286,6 +289,11 @@ table {
 .footer {
   height: 34px;
   background: black;
+  padding: 0 85px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
 }
 .dot {
   height: 3px;
@@ -344,9 +352,10 @@ table {
 }
 .link {
   cursor: pointer;
+  transition: 0.3s;
   &:hover {
-    background: #CCC;
-    box-shadow: 5px 5px 3px #666;
+    background: #EFEFEF;
+    box-shadow: 6px 6px 15px #666;
   }
 }
 .bottom-line {
