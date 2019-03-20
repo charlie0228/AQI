@@ -1,7 +1,7 @@
-# 新手 JS 地下城 2F - 時鐘
+# 新手 JS 地下城 5F - 全台空氣指標儀表板
 
 > vue build -d docs App.vue
 
-[設計稿網址](https://xd.adobe.com/spec/43be2f02-1d11-4dfb-4e3d-5c4df1df3896-358f/screen/e7b79d5d-37bb-41f7-8ca2-9df3811589e9/003-clock/)
+[設計稿網址](https://xd.adobe.com/spec/1e214feb-9f65-4c79-5adb-6919c1c7b8d7-6810/screen/dfcfc300-ec0f-4b70-bb23-7fc6be052a88/013-AQI/)
 
-[作品網址](https://charlie0228.github.io/clock/)
+[作品網址](https://charlie0228.github.io/AQI/)
